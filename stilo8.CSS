@@ -1,0 +1,84 @@
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background border-image: url(negro.jpg)
+        }
+        .contaner {
+            width: 80%;
+            margin: 0 auto;
+            background-color: aquamarine;
+            padding: 20px;
+        }
+        header {
+            background-color:black;
+            color: white;
+            padding: 10px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: red;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+.imagen{
+ text-align: center
+    width: 100%px;   
+ 
+ 
+    }
+    
+.som{
+       
+ margin: 5;
+    top:  0;
+    background-color: whitesmoke;
+    text-align: center;    
+}  
+  
+
+
+.nosotros{
+       text-align: justify;
+    
+      background-color:transparent;
+    opacity: 7px;
+}
+
+.container{
+    
+    margin: 0;
+    top:  0;
+    background-color: transparent;
+    text-align: center;
+    font-family: Arial, sans-serif;
+
+}
+
+footer2{
+    background: #3c40c6;
+    1em 0 1em 0;
+    }
