@@ -1,0 +1,19 @@
+body{ background-image: url(fondo%203.jpg);
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+    
+    
+   }
+
+.list-group{
+    width: 450px;
+    height: 200px;
+    margin-left: 550px;
+}
+   
+    
+    
+    
