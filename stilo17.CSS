@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    background-image: url(FOTI/foto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-attachment: fixed;
+    width: 1200;
+    
+    
+}
+
+body:before{
+    content: "";
+    width: 100%;
+    min-height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+   
+    
+    
+}
+
+
+
+
+header{
+    background-color: blue;
+}
+
+
+.navbar-expand-lg {
+   text-align: justify;
+    background-color:#ADD8E6 ;
+    
+}
+    
+body {
+  background: @lightBG;
+  color: @darkGrey;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-rendering: optimizeLegibility;
+}
+ 
+
+    
